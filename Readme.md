@@ -2,5 +2,5 @@ The repository contains Jupyter notebooks that demonstrate various techniques fo
 
 ## Contents
 
-- Intro.ipynb: Introduction to time series data and basic operations using pandas.
+- Intro.ipynb: Introduction to time series data and basic operations using pandas, overview of Time-Indexed.
 - TimeSeriesAnalysis.ipynb: Techniques for analyzing time series data, including decomposition and stationarity tests.
